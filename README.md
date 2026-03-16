@@ -125,12 +125,12 @@ The dashboard allows quick monitoring of attendance performance and identificati
 
 This project demonstrates how **data analytics can uncover meaningful insights** from employee attendance records.  
 
-While most employees maintain regular attendance, the analysis highlights opportunities to improve **punctuality** and reduce **absenteeism**.  
+While most employees maintain regular attendance, the analysis highlights opportunities to improve **punctuality** and reduce **absenteeism**. 
+By leveraging data-driven insights, organizations can strengthen attendance monitoring and improve overall workforce productivity.
+
 
 ---
 
 ## About Me
 
 I am Rhoda, your Business/Financial Analyst.
-
-By leveraging data-driven insights, organizations can strengthen attendance monitoring and improve overall workforce productivity.
