@@ -127,4 +127,10 @@ This project demonstrates how **data analytics can uncover meaningful insights**
 
 While most employees maintain regular attendance, the analysis highlights opportunities to improve **punctuality** and reduce **absenteeism**.  
 
+---
+
+## About Me
+
+I am Rhoda, your Business/Financial Analyst.
+
 By leveraging data-driven insights, organizations can strengthen attendance monitoring and improve overall workforce productivity.
